@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "BXMediaCenterSDK"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "活动小说集合工具"
 
   # This description is used to generate tags and improve search results.
